@@ -6,10 +6,10 @@
 package main
 const GetHuy = () => {
 	return Huy{
-		"- 🌱 I’m currently learning":        "Machine Learning, Image Processing, Nodejs, MongoDB, Expressjs, Reactjs (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+		"- 🌱 I’m currently learning":        "Machine Learning, Image Processing, Typescript design pattern ,(Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
 		"- 👯 I’m looking to collaborate on": "Python, Docker related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Nodejs, Reactjs, SQL, Software Design & Architecture, Web-Dev, Machine Learning, Deep Learning, C, C++, PHP,NoSQL, Python, Docker related projects"
+		"- 💬 Ask me about":                  "Nodejs, Reactjs, SQL, Typescript, Software Design & Architecture, Web-Dev, Machine Learning, Deep Learning, C, C++, PHP,NoSQL, Python, Docker related projects"
 	}
 }
 ```
