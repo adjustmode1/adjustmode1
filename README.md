@@ -3,9 +3,8 @@
 <h2 align="center">About me</h2>
 
 ```
-package main
 const GetHuy = () => {
-	return Huy{
+	return {
 		"- 🌱 I’m currently learning":        "Machine Learning, Image Processing, Typescript design pattern ,(Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
 		"- 👯 I’m looking to collaborate on": "Python, Docker related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
