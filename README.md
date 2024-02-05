@@ -23,7 +23,7 @@ const GetHuy = () => {
 ![](https://github-readme-stats.vercel.app/api?username=adjustmode1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adjustmode1&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adjustmode1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adjustmode1&bg_color=000000&color=ffffff&line=00700d&point=eb0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adjustmode1&bg_color=000000&color=fcfcfc&line=047111&point=c2bcbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
