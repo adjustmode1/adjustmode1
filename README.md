@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name Huy Nguyen ... and I'm a Backend Developer, from ZiiChat</h1>
+<h1 align="center">Hi 👋! My name Huy Nguyen and I'm a Software Engineer</h1>
 
 ###
 
